@@ -353,3 +353,19 @@ Before shipping, answer yes to all:
 - Deploy AI response guardrails and confidence labels.
 - Stand up resource freshness + copyright governance workflows.
 - Publish cross-system KPI dashboard for leadership and ops.
+
+
+| Module                   | Purpose                   | Monetization                |
+| ------------------------ | ------------------------- | --------------------------- |
+| Daily Study Tasks        | Converts plan into action | Pro                         |
+| Pomodoro / Focus Timer   | Increases engagement      | Free + Pro stats            |
+| Personal Notes           | User retention            | Free limited, Pro unlimited |
+| Flashcards               | Revision system           | Pro                         |
+| Mistake Book             | Exam improvement          | Pro                         |
+| Mock Test Tracker        | Performance analytics     | Pro/Elite                   |
+| Revision Calendar        | Prevents forgetting       | Pro                         |
+| Deadline Reminders       | High practical value      | Pro                         |
+| Study Analytics          | Progress visibility       | Pro                         |
+| PYQ Microtopic Analytics | Strong differentiator     | Elite                       |
+| AI Weekly Review         | Retention + premium value | Elite                       |
+| Downloadable Reports     | Serious aspirant value    | Elite                       |
